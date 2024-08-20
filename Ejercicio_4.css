@@ -1,0 +1,16 @@
+h1{
+    background:linear-gradient(90deg, rgba(46,182,21,1) 0%, rgba(255,255,255,1) 43%, rgba(255,255,255,1) 60%, rgba(247,23,23,1) 72%);
+}
+h2{border:4px solid gold;
+    width: 80px;
+    height: 12px;
+    padding-left: 27px;
+    padding-top: 22px;
+    padding-bottom: 22px;
+    padding-right: 27px;
+}
+#Carreras{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: small;
+    font-style: italic;
+}
